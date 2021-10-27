@@ -12,6 +12,7 @@ import Footer from './components/Footer'
 
 // Bootstrap Components
 import { Container, Row, Col } from 'react-bootstrap'
+import About from './components/About'
 
 
 export default function App(){
@@ -26,6 +27,7 @@ export default function App(){
 					<Col><Card/></Col>
 				</Row>
 			</Container>
+			<About />
 			<Footer/>
 		</>
 	)

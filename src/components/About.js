@@ -6,7 +6,7 @@ export default function About() {
         <div>
             <h2>About</h2>
             <ul>
-                <li>Full-Stack Web Developer</li>
+                <li>Full Stack Web Developer</li>
                 <li>ReactJS</li>
                 <li>UX Designer</li>
             </ul>
